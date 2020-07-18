@@ -1,0 +1,31 @@
+th{ 
+    background-color:#2D3E50 ; 
+    color:white; 
+//border-radius:10px; 
+   } 
+tr{ 
+   height:50px; 
+   margin-bottom:3px; 
+   background-color:#1BBC9B; } 
+td{ //border-radius:10px; } 
+.tableau{ border-radius:10px; 
+text-align:center; 
+width:800px; 
+margin:auto; 
+//background-color:#2D3E50; 
+}
+body{
+//background-color:#82FFE2; 
+background-image: url("coverImage.jpg")
+background-repeat:no-repeat;
+background-position:center; 
+background-attachment: fixed;} 
+.b{ 
+    padding:20px; 
+    font-size:40px; 
+    text-shadow: 5px 5px 5px; 
+    text-align:center; 
+    margin-bottom:100px; 
+    //border-style: solid; 
+    //border-width: medium; 
+}
